@@ -1,3 +1,10 @@
+// Harrison Woodward	10/11/16
+//
+// Program allows user to add, subtract, multiply, or divide two integers.
+// Built to practice with GUI components before a Software Development midterm exam
+
+
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
